@@ -11,3 +11,4 @@ Este proyecto utiliza el dataset **CORD-19** proporcionado por el Allen Institut
 ## Nota
 
 Por cuestiones de tamaño, los datos no están incluidos directamente en este repositorio.
+Tamaño de la carpeta que contiene el dataset es de 81.51 GB
