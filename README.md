@@ -1,4 +1,4 @@
-# Estudio del CORD-19 con Técnicas de NLP
+# Aplicación de BioBERT y RAG para la Clasificación y Consulta de Literatura Científica en el Contexto de la Pandemia de COVID-19: Un Estudio Basado en el CORD-19
 
 Este proyecto analiza el conjunto de datos CORD-19 usando técnicas de procesamiento de lenguaje natural (NLP). Incluye notebooks de análisis, funciones modulares en Python, y scripts auxiliares.
 
