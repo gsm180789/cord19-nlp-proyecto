@@ -12,14 +12,14 @@ pip install -r requirements.txt
 
 - `notebooks/`: Notebook principal con ejemplo de uso.
 - `src/`: Código modular y comentado.
-- `utils/`: Utilidades como limpieza de metadatos.
 - `data/`: Instrucciones para obtener los datos CORD-19.
+- `article/`: Artículo académico.
 
 ## Cómo ejecutar
 
 1. Instala las dependencias.
 2. Descarga el dataset CORD-19 (ver `/data/README.md`).
-3. Abre el notebook y ejecútalo en Jupyter o Colab.
+3. Abre el notebook y ejecútalo en Jupyter o Google Colab.
 
 ## Dataset
 
