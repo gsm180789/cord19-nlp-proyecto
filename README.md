@@ -2,9 +2,9 @@
 
 Este proyecto analiza el conjunto de datos CORD-19 utilizando técnicas de procesamiento de lenguaje natural (NLP). El enfoque principal se basa en:
 
-    - Clasificación binaria de documentos científicos utilizando el modelo BioBERT, fine-tuneado para identificar textos textos como "COVID" o "No COVID"
+- Clasificación binaria de documentos científicos utilizando el modelo BioBERT, fine-tuneado para identificar textos textos como "COVID" o "No COVID"
 
-    - RAG (Retrieval-Augmented Generation) para enriquecer respuestas generadas con recuperación de documentos basada en embeddings científicos.
+- RAG (Retrieval-Augmented Generation) para enriquecer respuestas generadas con recuperación de documentos basada en embeddings científicos.
 
 ## Requisitos
 
